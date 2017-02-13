@@ -2,322 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5590f65b-9e90-47ee-9d8e-37005275749b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Amphibian.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Animal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Brass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Bread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Characteristic.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Cheese.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Circle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Composing.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/CovariantReturn.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Derived.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Description.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/FieldAccess.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Frog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Grain.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Instrument.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Lettuce.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/LivingCreature.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Lunch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Meal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Mill.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Music.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Music2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Music3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Note.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Percussion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/PrivateOverride.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/ProtableLunch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/RandomShapeGenerator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/ReferenceCounting.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Sandwich.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Shape.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Shapes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Shared.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Squre.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/StaticPolymorphism.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/StaticSub.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/StaticSuper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Stringed.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Sub.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Super.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Triangle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Wheat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/WheatMill.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Wind.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/eight/Woodwind.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/A.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Apple.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/ArrayClassObj.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/ArrayNew.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/ArrayOfPrimitives.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/AutoboxingVarargs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Banana.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/BananaPeel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Bowl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Burrito$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Burrito.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Cup.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/CupBoard.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Cups.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/EnumOrder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/ExplicitStatic.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Flower.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/House.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Leaf.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Mug.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Mugs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/NewVarArgs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/OptionalTrailingArguments.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/OrderOfInitialization.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/OverLoading.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/OverloadingVarargs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/PassingThis.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Peeler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Person.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Rock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Rock2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/SimleConstructor2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/SimpleConstructor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/SimpleEnumUse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Spiciness.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/StaticInitialization.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Table.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Tree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/VarArgs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/VarargType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/five/Window.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/ActionCharacter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/AdaptedRandomDoubles.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Adventure.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Apply.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/BandPass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Brass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/C.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/C2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/C3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/C4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/CanFight.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/CanFly.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/CanSwim.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/DangerousMonster.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Downcase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/DragonZilla.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Filter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/FilterAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/FilterProcessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Hero.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/HighPass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/HorrorShow.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/I1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/I2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/I3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Instrument.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Lethal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/LowPass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Monster.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Music4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Percussion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Processor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/RandomDoubles.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/RandomWords.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Splitter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/StringProcessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Stringed.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Upcase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Vampire.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/VeryBadVampire.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Waveform.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/Wind.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/nine/WoodWind.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Art.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Bart.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Bath.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Beetle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/BlankFinal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Boarder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/CADSystem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Car.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Cartoon.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Chess.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Circle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Cleanser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Custom.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Detergent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/DinnerPlate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Door.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Drawing.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Engine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/FianlArguments.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/FinalData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Fork.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Game.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Gizmo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Hide.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Homer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Insect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Instrument.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Knife.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Line.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Milehouse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Orc.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/PlaceSetting.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Plate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Poppet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Shape.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Soap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/SpaceShipControls.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/SpaceShipDelegation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Spoon.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/SprinkleSystem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Triangle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Utensil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Value.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Villain.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/WaterSource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Wheel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Wind.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkInJava/seven/Window.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkInJava.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Amphibian.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Brass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Bread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Characteristic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Cheese.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Circle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Composing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/CovariantReturn.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Derived.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Description.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/FieldAccess.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Frog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Grain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Instrument.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Lettuce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/LivingCreature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Lunch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Meal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Mill.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Music.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Music2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Music3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Note.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Percussion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/PrivateOverride.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/ProtableLunch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/RandomShapeGenerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/ReferenceCounting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Sandwich.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Shape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Shapes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Shared.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Squre.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/StaticPolymorphism.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/StaticSub.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/StaticSuper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Stringed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Sub.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Super.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Triangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Wheat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/WheatMill.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Wind.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eight/Woodwind.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/ArrayClassObj.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/ArrayNew.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/ArrayOfPrimitives.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/AutoboxingVarargs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/BananaPeel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/Burrito.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/EnumOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/ExplicitStatic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/Flower.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/Leaf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/Mugs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/NewVarArgs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/OptionalTrailingArguments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/OrderOfInitialization.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/OverLoading.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/OverloadingVarargs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/PassingThis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/SimleConstructor2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/SimpleConstructor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/SimpleEnumUse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/Spiciness.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/StaticInitialization.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/VarArgs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/five/VarargType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/ActionCharacter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/AdaptedRandomDoubles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Adventure.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Apply.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/BandPass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Brass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/C2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/C3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/C4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/C5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/CanFight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/CanFly.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/CanSwim.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/DangerousMonster.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Downcase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/DragonZilla.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Filter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/FilterAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/FilterProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Hero.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/HighPass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/HorrorShow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/I1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/I2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/I3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Instrument.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Lethal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/LowPass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Monster.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Music4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Percussion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Processor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/RandomDoubles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/RandomWords.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Splitter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/StringProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Stringed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Upcase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Vampire.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/VeryBadVampire.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Waveform.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/Wind.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nine/WoodWind.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/Bath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/Beetle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/BlankFinal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/CADSystem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/Cartoon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/Chess.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/Cleanser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/Detergent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/FianlArguments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/FinalData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/Hide.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/Orc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/PlaceSetting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/SpaceShipControls.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/SpaceShipDelegation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/SprinkleSystem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/seven/Wind.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -349,11 +34,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ActionCharacter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ActionCharacter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nine/ActionCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="145">
               <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="C3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nine/C3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -420,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -446,28 +142,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -966,12 +643,21 @@
       <workItem from="1486960355457" duration="520000" />
       <workItem from="1486966280488" duration="366000" />
       <workItem from="1486966684595" duration="2661000" />
-      <workItem from="1486969375774" duration="482000" />
+      <workItem from="1486969375774" duration="791000" />
+      <workItem from="1486970200155" duration="2000" />
     </task>
+    <task id="LOCAL-00001" summary="init&#10;">
+      <created>1486969877761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1486969877761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4029000" />
+    <option name="totallyTimeSpent" value="4340000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -984,20 +670,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3301738" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3301738" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1014,7 +698,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1037,13 +723,26 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/nine/ActionCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nine/C3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/nine/RandomWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1044">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1051,10 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1062,9 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1080,7 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1096,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1111,10 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1122,7 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1146,9 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1156,16 +838,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
           <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nine/ActionCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
+        <state relative-caret-position="145">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nine/C3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding />
         </state>
       </provider>
