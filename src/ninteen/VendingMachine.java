@@ -1,9 +1,12 @@
 package ninteen;
 
 import com.sun.glass.ui.EventLoop;
+import net.mindview.util.Generator;
+import net.mindview.util.TextFile;
 
 import javax.swing.plaf.nimbus.State;
 import java.util.EnumMap;
+import java.util.Iterator;
 
 import static ninteen.Input.*;
 
@@ -135,5 +138,47 @@ public class VendingMachine {
         }
     }
 
+    static void run(Generator<Input> gen) {
+        while (state != State.TERMINAL) {
+            state.next(gen.next());
+            while (state.isTransient) {
+                state.next();
+            }
+            state.output();
+        }
+    }
+
+    public static void main(String[] args) {
+        Generator<Input> gen = new RandomInputGenerator();
+        if (args.length == 1) {
+            gen = new FileInputGenerator(args[0]);
+        }
+        run(gen);
+    }
+
+    static class RandomInputGenerator implements Generator<Input> {
+
+        @Override
+        public Input next() {
+            return Input.randomSelection();
+        }
+    }
+
+    static class FileInputGenerator implements Generator<Input> {
+        private Iterator<String> input;
+
+        public FileInputGenerator(String fileName) {
+            input = new TextFile(fileName, ";").iterator();
+        }
+
+        @Override
+        public Input next() {
+            if (!input.hasNext()) {
+                return null;
+            } else {
+                return Enum.valueOf(Input.class, input.next().trim());
+            }
+        }
+    }
 
 }
