@@ -1,17 +1,9 @@
+//: typeinfo/pets/Pet.java
 package forteen;
 
-import typeinfo.pets.Individual;
+import typeinfo.pets.*;
 
-/**
- * Created by Administrator on 2017/2/19.
- */
-public class Pet extends Individual {
-    public Pet(String name){
-        super(name);
-    }
-
-    public Pet(){
-        super();
-    }
-
-}
+public class Pet extends typeinfo.pets.Individual {
+  public Pet(String name) { super(name); }
+  public Pet() { super(); }
+} ///:~

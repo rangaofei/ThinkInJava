@@ -6,7 +6,7 @@ package eight;
 public class Amphibian extends Animal {
     private Characteristic p=new Characteristic("can live in whater");
     private Description t=new Description("Both water and land");
-    Amphibian(){
+    public Amphibian(){
         System.out.println("Amphibian()");
     }
 
