@@ -1,10 +1,8 @@
 package ninteen;
 
-import com.sun.glass.ui.EventLoop;
 import net.mindview.util.Generator;
 import net.mindview.util.TextFile;
 
-import javax.swing.plaf.nimbus.State;
 import java.util.EnumMap;
 import java.util.Iterator;
 
