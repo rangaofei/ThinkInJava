@@ -10,5 +10,7 @@
     <orderEntry type="library" name="pets" level="project" />
     <orderEntry type="library" name="pets" level="project" />
     <orderEntry type="library" name="net.mindview.util" level="project" />
+    <orderEntry type="library" name="tools-1.5.0" level="project" />
+    <orderEntry type="library" name="javassist-3.22.0-GA" level="project" />
   </component>
 </module>
