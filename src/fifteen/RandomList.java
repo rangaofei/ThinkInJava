@@ -19,7 +19,7 @@ public class RandomList<T> {
 
     public static void main(String[] args) {
         RandomList<String> rs=new RandomList<String>();
-        for(String s:("The quick brown fox jumped fox jumped over the lazy brown dog").split(" ")){
+        for(String s:("The quick brown fox jumped over the lazy brown dog").split(" ")){
             rs.add(s);
         }
         for(int i=0;i<11;i++){

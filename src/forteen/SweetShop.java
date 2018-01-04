@@ -27,15 +27,15 @@ public class SweetShop {
         System.out.println("Inside main");
         new Candy();
 
-        System.out.println("After laoding candy");
+        System.out.println("After loading candy");
 
         try {
-            Class.forName("forteen.Gum");
+            Class.forName("forteen.Guma");
         } catch (ClassNotFoundException e) {
             System.out.println("cannot find Gum class");
         }
         System.out.println("After loading gum");
         new Cookie();
-        System.out.println("After laoding cookie");
+        System.out.println("After loading cookie");
     }
 }
