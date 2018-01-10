@@ -37,7 +37,7 @@ public class CollectionMethods {
         c2.retainAll(c3);
         System.out.println("c2.isEmpty()= " + c2.isEmpty());
         c = new ArrayList<>();
-        ((List<String>) c).addAll(Countries.names(6));
+        c.addAll(Countries.names(6));
         System.out.println(c);
         c.clear();
         System.out.println("after c.clea(0:" + c);
