@@ -2,6 +2,7 @@ package eighteen;
 
 import java.io.File;
 import java.io.FilenameFilter;
+import java.io.FilterInputStream;
 import java.util.Arrays;
 import java.util.regex.Pattern;
 
@@ -35,4 +36,5 @@ class DirFilter implements FilenameFilter{
     public boolean accept(File dir, String name) {
         return pattern.matcher(name).matches();
     }
+
 }
