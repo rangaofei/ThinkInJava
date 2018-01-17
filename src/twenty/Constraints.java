@@ -11,7 +11,7 @@ import java.lang.annotation.Target;
 
 @Target(ElementType.FIELD)
 @Retention(RetentionPolicy.RUNTIME)
-public @interface Constaraints {
+public @interface Constraints {
     boolean primaryKey() default false;
     boolean allowNull() default true;
     boolean unique() default false;

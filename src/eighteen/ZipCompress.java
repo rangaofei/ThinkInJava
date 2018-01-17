@@ -1,0 +1,53 @@
+package eighteen;
+
+import java.io.*;
+import java.util.Enumeration;
+import java.util.zip.*;
+
+public class ZipCompress {
+    public static void main(String[] args) throws IOException {
+        FileOutputStream f=new FileOutputStream("test.zip");
+        CheckedOutputStream scum=new CheckedOutputStream(f,new Adler32());
+        ZipOutputStream zos=new ZipOutputStream(scum);
+        BufferedOutputStream out=new BufferedOutputStream(zos);
+        zos.setComment("A test of java Zipping");
+        for(String arg:args){
+            System.out.println("Writing file "+arg);
+            BufferedReader in=new BufferedReader(new FileReader(arg));
+            zos.putNextEntry(new ZipEntry(arg));
+            int c;
+            while ((c=in.read())!=-1){
+                out.write(c);
+            }
+            in.close();
+            out.flush();
+        }
+
+        out.close();
+        System.out.println("Checksum: "+scum.getChecksum().getValue());
+        System.out.println("Reading file");
+        FileInputStream fi=new FileInputStream("test.zip");
+        CheckedInputStream sdumi=new CheckedInputStream(fi,new Adler32());
+        ZipInputStream in2=new ZipInputStream(sdumi);
+        BufferedInputStream bis =new BufferedInputStream(in2);
+        ZipEntry ze;
+        while ((ze=in2.getNextEntry())!=null){
+            System.out.println("Reading file "+ze);
+            int x;
+            while ((x=bis.read())!=-1){
+                System.out.write(x);
+            }
+        }
+        if(args.length==1){
+            System.out.println("Checksum: "+sdumi.getChecksum().getValue());
+        }
+        bis.close();
+
+        ZipFile zf=new ZipFile("test.zip");
+        Enumeration e=zf.entries();
+        while (e.hasMoreElements()){
+            ZipEntry ze2= (ZipEntry) e.nextElement();
+            System.out.println("File: "+ze2);
+        }
+    }
+}

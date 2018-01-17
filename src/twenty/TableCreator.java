@@ -13,10 +13,12 @@ public class TableCreator {
     public static void main(String[] args) throws ClassNotFoundException {
         if (args.length < 1) {
             System.out.println("arguments: annotated classes");
-            arg= new String[]{"twenty.Member", "twenty.Member"};
+//            arg= new String[]{"twenty.Member", "twenty.Member"};
+            System.exit(0);
         }
 
-        for (String classname : arg) {
+
+        for (String classname : args) {
             Class<?> cl = Class.forName(classname);
             DBTable dbTable = cl.getAnnotation(DBTable.class);
             if (dbTable == null) {
@@ -65,7 +67,7 @@ public class TableCreator {
 
     }
 
-    private static String getConstraints(Constaraints con) {
+    private static String getConstraints(Constraints con) {
         String constraints = "";
         if (!con.allowNull()) {
             constraints += " NOT NULL";
